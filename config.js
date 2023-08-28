@@ -10,12 +10,12 @@ import moment from 'moment-timezone'
 global.owner = [
   ['393312171655', '𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋 𝐁Ꮻ𝐓', true],
   ['377607935810'],
-  ['393756447945'],
+  ['39360360000'],
   ['393312171655']
 ] 
 
-global.suittag = ['393312171655'] 
-global.prems = ['393312171655'] 
+global.suittag = ['39360360000'] 
+global.prems = ['39360360000'] 
 
 global.packname = '𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋'
 global.author = '𝐁Ꮻ𝐓'
